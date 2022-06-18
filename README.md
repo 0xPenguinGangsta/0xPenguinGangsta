@@ -10,7 +10,7 @@
 
 ## About me
 
-``I am 16 years old, I am a gangsta cat. 🐈``
+``I am a gangsta cat. 🐈``
 
 ---
 
