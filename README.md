@@ -10,13 +10,16 @@
 
 ## About me
 
-``I am a gangsta penguin 🐧.``
+# 🐧
+```
+I am a gangsta penguin 
+```
 
 ---
 
 ## Stats 
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyle433&theme=dark)]()
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyle433&theme=blanc)]()
 
 ---
 
