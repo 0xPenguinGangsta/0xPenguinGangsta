@@ -2,13 +2,19 @@
 
 ---
 
-## Profils 👤
+## Profils 
 
    <img src="https://discord.c99.nl/widget/theme-2/981252821779361802.png">   
    
 ---
 
-## Stats 📊
+## About me
+
+``I am 16 years old, I am a gangsta cat. 🐈``
+
+---
+
+## Stats 
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyle433&theme=dark)]()
 
