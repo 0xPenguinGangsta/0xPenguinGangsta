@@ -10,7 +10,7 @@
 
 ## Stats 📊
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyle433&theme=blanc)]()
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyle433&theme=dark)]()
 
 ---
 
