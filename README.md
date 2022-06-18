@@ -17,4 +17,4 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Kabyle433?style=social">
   <img src="https://img.shields.io/github/stars/Kabyle433?style=social">
-  <img src="https://komarev.com/ghpvc/?username=n3k0girl&color=blue"> </p>
+  <img src="https://komarev.com/ghpvc/?username=Kabyle433&color=blue"> </p>
