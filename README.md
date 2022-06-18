@@ -10,7 +10,7 @@
 
 ## About me
 
-``I am a gangsta cat. 🐈``
+``I am a gangsta penguin 🐧.``
 
 ---
 
